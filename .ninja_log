@@ -1,0 +1,12 @@
+# ninja log v5
+1	582	7070617938517692	CMakeFiles/WalkingDeadSurvival.dir/source/survival.cpp.obj	c9a6ec9f706fbc58
+583	809	7070617940745267	WalkingDeadSurvival.exe	3f1fade5212f58d
+2	152	7067253494769935	build.ninja	57d41a6c9e827d63
+2	518	7070817335886023	CMakeFiles/WalkingDeadSurvival.dir/source/survival.cpp.obj	c9a6ec9f706fbc58
+518	690	7070817337538161	WalkingDeadSurvival.exe	3f1fade5212f58d
+1	430	7070818760284104	CMakeFiles/WalkingDeadSurvival.dir/source/survival.cpp.obj	c9a6ec9f706fbc58
+431	563	7070818761558672	WalkingDeadSurvival.exe	3f1fade5212f58d
+3	616	7071278683888340	CMakeFiles/WalkingDeadSurvival.dir/source/survival.cpp.obj	c9a6ec9f706fbc58
+617	908	7071278686717130	WalkingDeadSurvival.exe	3f1fade5212f58d
+2	419	7071280166503897	CMakeFiles/WalkingDeadSurvival.dir/source/survival.cpp.obj	c9a6ec9f706fbc58
+420	556	7071280167810115	WalkingDeadSurvival.exe	3f1fade5212f58d
